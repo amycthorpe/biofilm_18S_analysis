@@ -6,7 +6,7 @@ R scripts to process and analyse microeukaryotic 18S rRNA gene sequencing data f
 Raw reads have been deposited in the European Nucleotide Archive (ENA) at EMBL-EBI under accession number XXXXXXXXX
 - Primers are removed from raw sequencing reads with [cutadapt](https://cutadapt.readthedocs.io/en/stable/) using DADA2/cutadapt_script.R
 - Reads are processed according to the [DADA2 workflow for big data](https://benjjneb.github.io/dada2/bigdata.html) using DADA2/dada2_script.R
-- Taxonomy is assigned according to the [PR2 v5.1.1](https://pr2-database.org/) reference database using DADA2/merging_and_taxonomy_script.R
+- Taxonomy is assigned according to the [PR2 v5.1.1](https://pr2-database.org/) reference database using DADA2/merge_and_taxonomy_script.R
 - Rarefaction and filtering is performed using DADA2/filter_and_rarefy_script.R
 
 ### Analysis and visualisation

@@ -11,7 +11,7 @@ Raw reads have been deposited in the European Nucleotide Archive (ENA) at EMBL-E
 
 ### Analysis and visualisation
 Outputs (available in the [Zenodo archive](LINK)) can then be analysed with the provided scripts to:
-   * Assign trophic classes using [EukFunc]([https://pages.uoregon.edu/slouca/LoucaLab/archive/FAPROTAX/lib/php/index.php](https://github.com/lentendu/EukFunc) and analysis_scripts/taxonomy_and_EukFunc_script.R
+   * Assign trophic classes using [EukFunc](https://github.com/lentendu/EukFunc) and analysis_scripts/taxonomy_and_EukFunc_script.R
    * Assess the diversity, community structure, and composition of the core vs non-core communities using analysis_scripts/community_structure_script.R
    * Run ordination and correlation analyses to identify environmental drivers using analysis_scripts/ordination_script.R
    * Construct co-occurrence networks using analysis_scripts/seasonal_network_script.R

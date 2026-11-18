@@ -18,4 +18,5 @@ Outputs (available in the [Zenodo archive](https://doi.org/10/5281/zenodo.241368
    * Identify environmental thresholds and indicator taxa using analysis_scripts/titan_run.R, visualised using analysis_scripts/titan_plots_script.R
 
 ### Citation
-LINK
+Thorpe et al. (2026) Microeukaryotic indicators of freshwater ecosystem condition from a national river monitoring network. bioRxiv, 11.16.766975. 
+[https://www.biorxiv.org/content/10.64898/2026.11.16.766975v1](https://www.biorxiv.org/content/10.64898/2026.11.16.766975v1)
